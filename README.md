@@ -1,4 +1,4 @@
-# siebel-xml-comparator ![Maven Build](https://github.com/ramethiraj/siebel-xml-comparator/actions/workflows/main.yml/badge.svg)
+# siebel-xml-comparator ![Maven Build](https://github.com/ramethiraj/siebel-xml-comparator/actions/workflows/main.yml/badge.svg)  ![Branch Build](https://github.com/ramethiraj/siebel-xml-comparator/actions/workflows/main.yml/badge.svg?branch=master)
 
 # Introduction
 XMLComparator is not just *any XML Comparator*, this tool is created with a purpose to enable Siebel CRM Configurations Managers / Siebel Developers / Admins to **Compare two different Siebel Environments** using the Siebel Object XML Export. This provides the capability of identifying the newly added / edited Sibel Product/ Product Promotions / Bundles or any line item. This offering is custom made for the purpose of working with the Siebel products Export.
